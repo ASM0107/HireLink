@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // basePath: "/your-repo-name", // Uncomment and set your repo name if not a user/org page
+  basePath: "/HireLink",
 };
 
 export default nextConfig;
